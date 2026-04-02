@@ -33,4 +33,4 @@ This project designed and executed an end-to-end study training 8 CNN models - p
 [HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) - 10,015 dermatoscopic images across 7 lesion categories, reduced to binary classification (melanocytic nevi vs all others).
 
 ## Related
-- [Skin Lesion Inference API](https://github.com/leewscott/skin-lesion-api) — FastAPI service deploying models from this dissertation
+- [Skin Lesion Inference API](https://github.com/lee-scott-dev/skin-lesion-api) — FastAPI service deploying models from this dissertation
