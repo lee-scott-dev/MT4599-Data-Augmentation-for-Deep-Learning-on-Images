@@ -6,7 +6,7 @@ A multi-model comparative study (full paper available on request) evaluating the
 
 ## Overview
 
-This project designed and executed an end-to-end study training 8 CNN models — pairing two architectures (LeNet-5 and EfficientNetV2-B0) with four augmentation strategies:
+This project designed and executed an end-to-end study training 8 CNN models - pairing two architectures (LeNet-5 and EfficientNetV2-B0) with four augmentation strategies:
 
 1. **No augmentation** (baseline)
 2. **Manual warping** (rotation, flip, zoom, brightness)
