@@ -2,7 +2,7 @@
 
 **Graded 92/100 | Highly Commended | University of St Andrews**
 
-A multi-model comparative study evaluating the impact of four data augmentation strategies on CNN-based binary classification of pigmented skin lesions (typical vs atypical) from the HAM10000 dermatoscopic dataset (10,015 images).
+A multi-model comparative study (full paper available on request) evaluating the impact of four data augmentation strategies on CNN-based binary classification of pigmented skin lesions (typical vs atypical) from the HAM10000 dermatoscopic dataset (10,015 images).
 
 ## Overview
 
