@@ -1,4 +1,4 @@
-# BSc Dissertation – Data Augmentation for Skin Lesion Classification
+# BSc Dissertation - Data Augmentation for Skin Lesion Classification
 
 **Graded 92/100 | Highly Commended**
 
